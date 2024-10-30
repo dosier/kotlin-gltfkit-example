@@ -1,0 +1,3 @@
+package = gltfkit
+language = Objective-C
+modules = GLTFKit2
